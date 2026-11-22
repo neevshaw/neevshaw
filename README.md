@@ -14,7 +14,6 @@ I'm a student who likes building things that solve real problems, from assistive
 - **[Synapse](https://github.com/neevshaw/Synapse)**: connects students learning tech skills with local businesses that post real projects | [website](https://synapse2025.pythonanywhere.com/) | [demo](https://youtu.be/3xPCN-udqB8)
 - **[OtherSide](https://github.com/neevshaw/OHS-Hackathon-Projects/tree/main/Other-Side%20(2025))**: balances a politically one-sided Instagram feed by temporarily following accounts from the other side
 - **[Canvas Planner](https://github.com/neevshaw/Canvas-Planner)**: one-tap app that turns the week's Canvas assignments into a to-do list | [website](https://canvasplanner.pythonanywhere.com/)
-- **[Data Science Projects](https://github.com/neevshaw/Data-Science-Projects)**: coursework in statistical learning and Bayesian analysis, plus a study of college admission gaps
 
 ##### 2024 - 2025
 - **[UpLevel Ops Projects](https://github.com/neevshaw/UpLevel-Ops-Projects)**: AI contract redlining and a legal-ops maturity assessment, built for a legal-operations consulting firm
