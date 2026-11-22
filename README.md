@@ -9,6 +9,7 @@ I'm a student who likes building things that solve real problems, from assistive
 
 ##### 2026 - 2027
 - **[BETTER AutoLaTeX](https://github.com/better-autolatex/better-autolatex.github.io)**: Chrome extension that renders Google Docs as LaTeX PDFs, with a split-screen preview | [website](https://better-autolatex.github.io)
+- **[Mars Orbiter](https://github.com/neevshaw/Mars-Orbiter)**: gravity game where you steer a satellite into orbit around Mars, with an AI mode powered by a reinforcement learning agent
 
 ##### 2025 - 2026
 - **[Synapse](https://github.com/neevshaw/Synapse)**: connects students learning tech skills with local businesses that post real projects | [website](https://synapse2025.pythonanywhere.com/) | [demo](https://youtu.be/3xPCN-udqB8)
